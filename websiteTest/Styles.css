@@ -1,10 +1,14 @@
 ﻿body {
-    background-color: aquamarine;
-
+    background-color: rgb(189, 222, 211);
+    text-align: center;
 }
 
 #myBox {
-    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+   
     height: 100px;
     margin-bottom: 10px;
 }
@@ -14,6 +18,8 @@ img {
 }
 
 #myButton{
-    margin-top: 150px;
-   font-size: 3rem;
+    margin-top: 130px;
+    padding: 4px;
+   font-size: 25px;
+   border-radius: 8px;
 }

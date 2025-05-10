@@ -15,7 +15,7 @@ function changeColor(event) {
 
 myButton.addEventListener("click", myBox => {
     myBox.target.style.backgroundColor = "purple"
-    myBox.target.textContent = "welcome! ";
+    myBox.target.textContent = "Thank you! ";
 });
 
 
