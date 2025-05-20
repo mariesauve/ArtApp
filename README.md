@@ -1,4 +1,11 @@
 Testing Features of Git, GitHub and practicing Web technologies. Just for fun :)
 
+
+![alt text](artTest.png)
+</br>
+![alt text](artTest2.png)
+
+First Edit:
+</br>
+
 ![Screenshot 2024-09-20 203554](https://github.com/user-attachments/assets/1625766d-ad11-4a29-9a71-3735bb275fd7)
-![alt text](artTest.png) ![alt text](artTest2.png)
